@@ -1,0 +1,10 @@
+C:\Users\asus\source\repos\Comubus CAN\Comubus CAN\bin\Debug\Comubus CAN.exe.config
+C:\Users\asus\source\repos\Comubus CAN\Comubus CAN\bin\Debug\Comubus CAN.exe
+C:\Users\asus\source\repos\Comubus CAN\Comubus CAN\bin\Debug\Comubus CAN.pdb
+C:\Users\asus\source\repos\Comubus CAN\Comubus CAN\obj\Debug\Comubus CAN.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\Comubus CAN\Comubus CAN\obj\Debug\Comubus_CAN.Form1.resources
+C:\Users\asus\source\repos\Comubus CAN\Comubus CAN\obj\Debug\Comubus_CAN.Properties.Resources.resources
+C:\Users\asus\source\repos\Comubus CAN\Comubus CAN\obj\Debug\Comubus CAN.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\Comubus CAN\Comubus CAN\obj\Debug\Comubus CAN.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Comubus CAN\Comubus CAN\obj\Debug\Comubus CAN.exe
+C:\Users\asus\source\repos\Comubus CAN\Comubus CAN\obj\Debug\Comubus CAN.pdb
